@@ -1,20 +1,20 @@
 module github.com/xmit-co/xmit
 
-go 1.25.5
+go 1.26.0
 
 require (
-	github.com/fxamacker/cbor/v2 v2.9.2
+	github.com/fxamacker/cbor/v2 v2.9.6
 	github.com/google/uuid v1.6.0
 	github.com/kirsle/configdir v0.0.0-20170128060238-e45d2f54772f
-	github.com/klauspost/compress v1.18.6
-	github.com/pelletier/go-toml/v2 v2.2.4
+	github.com/klauspost/compress v1.20.1
+	github.com/pelletier/go-toml/v2 v2.4.3
 	github.com/titanous/json5 v1.0.0
 	github.com/zeebo/blake3 v0.2.4
-	golang.org/x/term v0.43.0
+	golang.org/x/term v0.46.0
 )
 
 require (
-	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
+	github.com/klauspost/cpuid/v2 v2.4.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
-	golang.org/x/sys v0.44.0 // indirect
+	golang.org/x/sys v0.48.0 // indirect
 )
