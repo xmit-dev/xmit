@@ -17,7 +17,7 @@
             pname = "xmit";
             version = "0.5.0";  
             src = ./.;
-            vendorHash = "sha256-gKFRvDOxaefccq/jImge13xGQy86xV0AF3ZnFAMr8G8=";
+            vendorHash = "sha256-1UBZofk2eIPvr2nvZum9lasuPr64NnjDYz//eQ5N2Wc=";
           };
         }
     );
