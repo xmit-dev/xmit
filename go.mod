@@ -6,7 +6,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.9.6
 	github.com/google/uuid v1.6.0
 	github.com/kirsle/configdir v0.0.0-20170128060238-e45d2f54772f
-	github.com/klauspost/compress v1.20.1
+	github.com/klauspost/compress v1.20.3
 	github.com/pelletier/go-toml/v2 v2.4.3
 	github.com/titanous/json5 v1.0.0
 	github.com/zeebo/blake3 v0.2.4
