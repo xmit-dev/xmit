@@ -10,11 +10,11 @@ require (
 	github.com/pelletier/go-toml/v2 v2.4.3
 	github.com/titanous/json5 v1.0.0
 	github.com/zeebo/blake3 v0.2.4
-	golang.org/x/term v0.46.0
+	golang.org/x/term v0.47.0
 )
 
 require (
 	github.com/klauspost/cpuid/v2 v2.4.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
-	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
 )
